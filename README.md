@@ -1,6 +1,6 @@
 此文首发于公众号 brucepk，可以 [点击这里](http://mp.weixin.qq.com/s?__biz=MzU4NjUxMDk5Mg==&mid=100000189&idx=1&sn=87b789abedab1ead2d99a41b00907418&chksm=7dfb66424a8cef540a711aed40a99885596ce0b9d57860b9083b96a3f31ba584480d732919bf#rd) 查看。
 
-“ 阅读文本大概需要 4.5 分钟。 
+> “ 阅读文本大概需要 4.5 分钟。 
 
 前言
 ===
