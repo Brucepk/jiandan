@@ -8,16 +8,16 @@
 
 > “ 阅读文本大概需要 4.5 分钟。 
 
-前言
-===
-大家好，这里是「brucepk」爬虫 系列教程。此文首发于「brucepk」公众号，欢迎大家去关注。此系列教程以实例项目为材料进行分析，从项目中学习 python 爬虫，跟着我一起学习，每天进步一点点。关注公众号「brucepk」，在公众号回复「jiandan」也可以获本文章源码。
-
-煎蛋网站
-
 
 
 很多朋友都反应学 python 语言太枯燥，学不进去，其实学语言最好的方法是自己用所学的语言做项目，在项目中学习语言的用法。今天给大家带来的项目是用 python3 爬取煎蛋网妹子的图片。图片质量还不错，我放两张图片大家感受下。
 
+![mz1](https://github.com/Brucepk/pk.github.io/blob/master/mz1.jpg)
+
+
+----
+
+![mz2](https://github.com/Brucepk/pk.github.io/blob/master/mz2.jpg)
 
 
 这个项目用了 requests + selenium + beautifulsoup 库对网站的图片进行抓取。接下来我就，给大家一步步解析一下，怎么用 python 爬虫爬取图片并下载的。
